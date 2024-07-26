@@ -151,7 +151,7 @@
             // 
             file1_name.AutoSize = true;
             file1_name.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            file1_name.Location = new Point(649, 147);
+            file1_name.Location = new Point(723, 151);
             file1_name.Name = "file1_name";
             file1_name.Size = new Size(0, 21);
             file1_name.TabIndex = 6;
@@ -160,7 +160,7 @@
             // 
             file2_name.AutoSize = true;
             file2_name.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            file2_name.Location = new Point(649, 205);
+            file2_name.Location = new Point(723, 224);
             file2_name.Name = "file2_name";
             file2_name.Size = new Size(0, 21);
             file2_name.TabIndex = 7;
